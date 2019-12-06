@@ -1,0 +1,1 @@
+# mysql_procedure_create_table_dynamically.
